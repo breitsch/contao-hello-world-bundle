@@ -7,7 +7,7 @@
     "authors": [
         {
             "name": "Peter Bracher",
-            "homepage": "https://github.com/webrealisierung-ch"
+            "homepage": "https://github.com/breitsch"
         },
         {
             "name": "Contao Community",
@@ -46,7 +46,7 @@
         }
     },
     "support": {
-        "issues": "https://github.com/webrealisierung-ch/contao-hello-world-bundle/issues",
-        "source": "https://github.com/webrealisierung-ch/contao-hello-world-bundle"
+        "issues": "https://github.com/breitsch/contao-hello-world-bundle/issues",
+        "source": "https://github.com/breitsch/contao-hello-world-bundle"
     }
 }

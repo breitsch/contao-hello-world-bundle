@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="551e6ea2-23e6-46ad-ae79-4ee4a6701f28" name="Default Changelist" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/skeleton-bundle-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/contao-hello-world-bundle.iml" afterDir="false" />
+    <list default="true" id="551e6ea2-23e6-46ad-ae79-4ee4a6701f28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,22 +64,34 @@
       <option name="presentableId" value="Default" />
       <updated>1585855257291</updated>
       <workItem from="1585855259041" duration="1963000" />
-      <workItem from="1585857273236" duration="641000" />
+      <workItem from="1585857273236" duration="1017000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1585858019568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585858019569</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="762" y="163" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1585856104797">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="762" y="163" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1585856104797" />
-    <state x="600" y="245" key="CommitChangelistDialog2" timestamp="1585857687503">
+    <state x="600" y="245" key="CommitChangelistDialog2" timestamp="1585858018789">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="600" y="245" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585857687503" />
+    <state x="600" y="245" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585858018789" />
     <state x="0" y="78" key="DiffContextDialog" timestamp="1585857577160">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -94,5 +104,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="509" y="294" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1585857456051" />
+    <state x="600" y="384" key="Vcs.Push.Dialog.v2" timestamp="1585858047933">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="600" y="384" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585858047933" />
   </component>
 </project>
