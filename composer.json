@@ -1,6 +1,6 @@
 {
     "name": "wr/contao-hello-world-bundle",
-    "type": "symfony-bundle",
+    "type": "contao-bundle",
     "description": "Hello World extension for Contao Open Source CMS_",
     "homepage": "https://contao.org",
     "license": "LGPL-3.0-or-later",
